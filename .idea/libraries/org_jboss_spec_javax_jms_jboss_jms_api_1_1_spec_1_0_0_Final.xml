@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="org.jboss.spec.javax.jms:jboss-jms-api_1.1_spec:1.0.0.Final" type="repository">
+    <properties maven-id="org.jboss.spec.javax.jms:jboss-jms-api_1.1_spec:1.0.0.Final" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jboss/spec/javax/jms/jboss-jms-api_1.1_spec/1.0.0.Final/jboss-jms-api_1.1_spec-1.0.0.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
